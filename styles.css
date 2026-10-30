@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    align-items: centre;
+    justify-content: space-around;
+    padding: 20px;
+
+}
+.logo{
+   color:yellow ;
+ 
+}
+.logo span{
+    color: #168b3b;
+}
+.location{
+    min-width: 120px;
+}
+.location h4{
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+.location p{
+    font-size: 12px;
+}
+.header input{
+    width: 35px;
+    
+}
